@@ -30,4 +30,5 @@ notes ada di [notes.md](notes.md)
 
 # credits
 
-app scaffold: [designing a dbank smart contract](https://www.youtube.com/watch?v=xWFba_9QYmc&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY&index=7)
+tutorial: [designing a dbank smart contract](https://www.youtube.com/watch?v=xWFba_9QYmc&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY&index=7)
+original repo: [dbank](https://github.com/dappuniversity/dbank)
